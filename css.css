@@ -3,11 +3,11 @@ body {
 }
 
 div {
-    font-size: 40px;
+    font-size: 48px;
     color: #3f3f3f;
     /**border: 1px solid;**/
-    height: 120px;
-    line-height: 20px;
+    height: 144px;
+    line-height: 24px;
 }
 
 span {
