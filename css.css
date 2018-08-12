@@ -1,0 +1,53 @@
+body {
+    padding: 50px;
+}
+
+div {
+    font-size: 40px;
+    color: #3f3f3f;
+    /**border: 1px solid;**/
+    height: 120px;
+    line-height: 20px;
+}
+
+span {
+    /**border: 1px solid;**/
+}
+
+.f1 {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.f2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.f3 {
+    font-family: 'Comfortaa', cursive;
+}
+
+.f4 {
+    font-family: 'Monoton', cursive;
+}
+
+.f5 {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.f6 {
+    font-family: 'Ewert', cursive;
+}
+
+.f7 {
+    font-family: 'Archivo Black', sans-serif;
+    background: -webkit-linear-gradient(45deg, #FF0080, #dc143c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.f8 {
+    font-family: 'Black Han Sans', sans-serif;
+    background: -webkit-linear-gradient(0deg, #2eb857, #9370db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
